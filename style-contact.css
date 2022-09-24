@@ -1,0 +1,31 @@
+.main{
+    background-color: #4185F2;
+}
+
+.contact-page {
+   height: 100vh ;
+   background-color: #4185F2;
+}
+
+.form-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20vh;
+    padding-bottom: 15vh;
+
+}
+.img-box {
+    height: 50vh;
+}
+
+.form-ele {
+    padding: 0.8vh;
+}
+
+.soc-logo{
+    height: 7vh;
+}
+
+.email{
+    text-decoration: none;
+}
